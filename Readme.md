@@ -1,0 +1,1 @@
+![Screenshot](https://github.com/Huzaifakamran/custom-chatbot-widget-ui/blob/main/screenshot.png)
