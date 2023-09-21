@@ -1,1 +1,1 @@
-![Screenshot](https://github.com/Huzaifakamran/custom-chatbot-widget-ui/blob/main/screenshot.png)
+![Screenshot](https://github.com/Huzaifakamran/custom-chatbot-widget-ui/blob/main/screenshot.PNG)
